@@ -4,9 +4,10 @@
 
 📍 **Location:** Vienna, Austria  
 📧 **Email:** dusaliyev.marat@gmail.com  
-💼 **LinkedIn:** [Marat Dussaliyev](https://www.linkedin.com/in/marat-dussaliyev-5741a7231/)  
+💼 **LinkedIn:** [link](https://www.linkedin.com/in/marat-dussaliyev-5741a7231/)  
 🚀 **Passionate about:** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software | Web Development | System Security | Performance Optimization.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software | Web Development | System Security | Performance Optimization
+
 
 
 
@@ -18,7 +19,9 @@
 📂 **Databases:** Oracle, MySQL, MongoDB  
 📌 **Other:** Git (GitHub, GitLab), UML, Agile (Jira, Trello)  
 
+
 ---
+
 
 ### 🌟 Projects  
 - 🔭 **E-Commerce Web App** - I’m currently working on **Angular|SpringBoot FullStack Ecommerce**
@@ -73,7 +76,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=zaker1998&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaker1998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=panda&hide_border=false" height="130" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=zaker1998&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=en&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=zaker1998&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=5" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaker1998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=panda&hide_border=false" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaker1998&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=en&hide_border=false" height="100" alt="stats graph"  />
 </div>
