@@ -1,6 +1,6 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"> Hi, I'm Marat <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />
 
-<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
+<img align="right" height="280" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
 
 📍 **Location:** Vienna, Austria  
 📧 **Email:** dusaliyev.marat@gmail.com  
@@ -76,7 +76,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=zaker1998&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=5" height="100" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaker1998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=panda&hide_border=false" height="100" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=zaker1998&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=en&hide_border=false" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=zaker1998&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=5" height="115" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaker1998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=panda&hide_border=false" height="115" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaker1998&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=en&hide_border=false" height="115" alt="stats graph"  />
 </div>
