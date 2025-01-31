@@ -71,10 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/zaker1998/zaker1998/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=zaker1998&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=5" height="115" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaker1998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=panda&hide_border=false" height="115" alt="languages graph"  />
