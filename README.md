@@ -25,7 +25,6 @@
 
 ### 🌟 Projects  
 - 🔭 **E-Commerce Web App** - I’m currently working on **Angular|SpringBoot FullStack Ecommerce**
-- 📌 **E-Commerce Web App** – Full-stack application using Angular & Spring Boot  
 - 📌 **Database System** – Designed a versitile relational DB using OracleSQL|PHP with support of REST API|CRUD operations
 - 📌 **C++ Data Structures** – Custom implementation of STL various collections
 
