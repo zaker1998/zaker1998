@@ -10,7 +10,6 @@
 
 
 
-
 ### 🔧 Tech Stack  
 
 💻 **Languages:** Java, JavaScript, TypeScript, C/C++, Python, SQL  
