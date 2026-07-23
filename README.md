@@ -23,7 +23,7 @@
 
 
 ### 🌟 Projects  
-- 🔭 **E-Commerce Web App** - I’m currently working on **Angular|SpringBoot FullStack Ecommerce**
+- 🔭 **Spendly** - I’m currently working on **Angular|SpringBoot FullStack Expense Tracker**
 - 📌 **Database System** – Designed a versitile relational DB using OracleSQL|PHP with support of REST API|CRUD operations
 - 📌 **C++ Data Structures** – Custom implementation of STL various collections
 
