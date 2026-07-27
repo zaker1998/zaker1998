@@ -23,7 +23,7 @@
 
 ### 🌟 Projects  
 - 🔭 **Spendly** - I’m currently working on **Angular|SpringBoot FullStack Expense Tracker**
-- 📌 **Bachata Vienna** – Full-Stack Web Platform for my Group and Private dance classes 🔗 (bachatavienna.com)⁠
+- 📌 **Bachata Vienna** – Full-Stack Web Platform for my Group and Private dance classes 🔗 (https://www.bachatavienna.com)⁠
 - 📌 **Database System** – A versitile relational DB using OracleSQL|PHP REST API|CRUD operationa
 
 ---
