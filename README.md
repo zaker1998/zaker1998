@@ -12,11 +12,10 @@
 
 ### 🔧 Tech Stack  
 
-💻 **Languages:** Java, JavaScript, TypeScript, C/C++, Python, SQL  
-⚙ **Frameworks & Tools:** Spring (Core, MVC, Boot), Hibernate, Angular, Flask  
-🛠 **DevOps:** Docker, CI/CD pipelines, Linux Administration, Shell Scripting  
-📂 **Databases:** Oracle, MySQL, MongoDB  
-📌 **Other:** Git (GitHub, GitLab), UML, Agile (Jira, Trello)  
+💻 **Backend:** Java, Spring Boot, Hibernate, REST APIs, PostgreSQL, MongoDB, C/C++
+⚙ **Frontend:** React, Next.js, Angular, TypeScript, Tailwind CSS 
+📂 **DevOps:** Docker, Kubernetes, CI/CD, AWS, GCP , Linux 
+🛠 **Tools:** Git, GitLab, Jira
 
 
 ---
@@ -24,8 +23,8 @@
 
 ### 🌟 Projects  
 - 🔭 **Spendly** - I’m currently working on **Angular|SpringBoot FullStack Expense Tracker**
-- 📌 **Database System** – Designed a versitile relational DB using OracleSQL|PHP with support of REST API|CRUD operations
-- 📌 **C++ Data Structures** – Custom implementation of STL various collections
+- 📌 **Bachata Vienna** – Full-Stack Web Platform for my Group and Private dance classes 🔗 (bachatavienna.com)⁠
+- 📌 **Database System** – A versitile relational DB using OracleSQL|PHP REST API|CRUD operationa
 
 ---
 ### ⚡ Fun fact  
